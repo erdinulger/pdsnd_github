@@ -6,6 +6,7 @@ Erdin Ülger Bike Share Project
 
 ### Description
 Erdin Ülger Python Project
+This project has analyzed chicago.csv, new_york_city.csv, washington.csv documents.
 
 ### Files used
 bikeshare.py
