@@ -202,7 +202,7 @@ def user_stats(df):
     start_time = time.time()
 
     # TO DO: Display counts of user types
-    
+    """set counts variable for user type and count"""
     counts = df.groupby(['User Type']).size().sort_values(ascending=False)
     
     
